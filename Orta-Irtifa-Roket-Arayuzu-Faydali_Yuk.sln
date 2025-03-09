@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafız-IHO-Steam_Orta-Irtifa", "Hafız-IHO-Steam_Alcak-Irtif\Hafız-IHO-Steam_Orta-Irtifa.csproj", "{88B7BDB9-9EB7-431B-AA9C-D69892CB734C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B7BDB9-9EB7-431B-AA9C-D69892CB734C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B7BDB9-9EB7-431B-AA9C-D69892CB734C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B7BDB9-9EB7-431B-AA9C-D69892CB734C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B7BDB9-9EB7-431B-AA9C-D69892CB734C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD057DC-8E36-4826-9145-51B2630BE3BB}
+	EndGlobalSection
+EndGlobal
